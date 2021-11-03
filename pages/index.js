@@ -23,7 +23,7 @@ export default function Home ({ allPostsData }) {
         <p>Hello, I'm  Henrique Santi, a designer and developer looking to emproove  my skiils using next js</p>
         <h4 className="title">
           Read{'  '}
-          <Link href="/posts/first-post">
+          <Link href="/">
             <a>My first post</a>
           </Link>
         </h4>
